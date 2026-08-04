@@ -36,7 +36,7 @@ I like building at the intersection of **machine learning, data analytics, gener
 ```python
 faizan = {
     "role": "AIML Engineer in the making",
-    "education": "B.Tech CSE (AI & ML), 2023â€“2027",
+    "education": "B.Tech CSE (AI & ML), 2023–2027",
     "specialization": "Cyber Security",
     "currently_exploring": ["RAG systems", "LLM agents", "MLOps", "data products"],
     "problem_solving": "130+ LeetCode problems",
@@ -143,16 +143,22 @@ faizan = {
       <td><a href="https://github.com/faizanalam-1457//hr-policy-rag-assistant"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="HR Policy RAG Assistant repository" /></a></td>
     </tr>
     <tr>
-      <td><strong>Expense Tracker Web App</strong><br />2026</td>
-      <td>React.js<br />Node.js<br />Express.js<br />MongoDB<br />JWT</td>
-      <td>Full-stack expense tracker with signup and login, authenticated RESTful CRUD APIs, persistent transactions, categorization, and income, expense, and balance summaries.</td>
-      <td><a href="https://github.com/faizanalam-1457/expense-tracker-web-app"><img src="https://img.shields.io/badge/Repo-155E75?style=flat-square&logo=github&logoColor=white" alt="Expense Tracker repository" /></a></td>
+      <td><strong>IntelliSpend AI</strong><br />2026</td>
+      <td>Python<br />Ollama (LLaMA 2)<br />LangChain<br />FAISS<br />Flask<br />Plotly<br />Panel</td>
+      <td>AI-powered expense intelligence app: an LLM auto-categorizes raw bank transactions, a Plotly/Panel dashboard visualizes spend breakdowns and monthly trends, and a RAG-based Flask chatbot answers natural-language questions grounded in your own financial data.</td>
+      <td><a href="https://github.com/faizanalam-1457/IntelliSpend-AI"><img src="https://img.shields.io/badge/Repo-155E75?style=flat-square&logo=github&logoColor=white" alt="IntelliSpend AI repository" /></a></td>
     </tr>
     <tr>
       <td><strong>AI Expense Categorization and Forecasting Engine</strong><br />February 2026</td>
       <td>Python<br />Machine Learning<br />OCR<br />Pandas<br />Matplotlib</td>
       <td>Expense intelligence pipeline for automated categorization, receipt extraction, future-spend forecasting, anomaly detection, and interactive analysis.</td>
       <td><a href="https://github.com/faizanalam-1457/ai-expense-categorization-forecasting"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="AI Expense Categorization repository" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Driver Drowsiness Detection System</strong><br />2026</td>
+      <td>Python<br />OpenCV<br />MediaPipe</td>
+      <td>Real-time webcam-based drowsiness detection using MediaPipe facial landmarks, Eye Aspect Ratio calculations, and statistical thresholding to trigger alerts.</td>
+      <td><a href="https://github.com/faizanalam-1457/driver-drowsiness-detection"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="Driver Drowsiness Detection System repository" /></a></td>
     </tr>
     <tr>
       <td><strong>Sales Performance Dashboard</strong><br />2026</td>
@@ -169,7 +175,6 @@ faizan = {
 
   | Project | Summary |
   | --- | --- |
-  | **Driver Drowsiness Detection System** | Real-time webcam-based drowsiness detection using MediaPipe facial landmarks, Eye Aspect Ratio calculations, and statistical thresholding. |
   | **Hand Gesture Web Controller** | Classified 5+ hand gestures with MediaPipe landmarks and connected a Python processing backend to a JavaScript frontend. |
   | **PDF to Audiobook Converter** | Accessibility-first PDF text extraction, preprocessing, and text-to-speech synthesis using Python, `pyttsx3`, and gTTS. |
 </details>
@@ -184,7 +189,7 @@ faizan = {
   <summary><strong>Web Developer and Designer Intern, Oasis Infobyte (OIBSIP)</strong></summary>
   <br />
 
-  **Remote Â· November 2024 to January 2025**
+  **Remote · November 2024 to January 2025**
 
   - Built and deployed responsive websites with HTML5, CSS3, and JavaScript.
   - Applied mobile-first design and cross-browser compatibility practices.
@@ -202,7 +207,7 @@ faizan = {
   <summary><strong>B.Tech in Computer Science and Engineering, Artificial Intelligence and Machine Learning</strong></summary>
   <br />
 
-  Allenhouse Institute of Technology, AKTU, Kanpur Â· **2023 to 2027**
+  Allenhouse Institute of Technology, AKTU, Kanpur · **2023 to 2027**
 
   - Honours specialization: Cyber Security
   - SGPA: Year 1 **8.66**, Year 2 **7.77**, Semester 5 **8.22**
@@ -213,7 +218,7 @@ faizan = {
   <summary><strong>Class XII, PCM</strong></summary>
   <br />
 
-  Super International School, Kanpur Â· **2022** Â· **76%**
+  Super International School, Kanpur · **2022** · **76%**
 </details>
 
 ## Certifications, achievements, and highlights
@@ -295,11 +300,32 @@ faizan = {
   </tbody>
 </table>
 
+## GitHub activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanalam-1457&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faizan's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=faizanalam-1457&theme=tokyonight&hide_border=true" alt="Faizan's GitHub streak stats" height="165" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanalam-1457&theme=react-dark&hide_border=true&area=true" alt="Faizan's contribution activity graph" width="100%" />
+</div>
 
+<!--
+  Contribution snake animation — requires a one-time setup, see snake.yml
+  (provided alongside this README) and the setup steps that come with it.
+  Once the workflow in that file has run at least once, both SVGs below
+  resolve automatically and this <picture> switches between them based on
+  the viewer's light/dark GitHub theme.
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizanalam-1457/faizanalam-1457/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizanalam-1457/faizanalam-1457/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/faizanalam-1457/faizanalam-1457/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
-
+</div>
 
 <!-- Replace every YOUR_GITHUB_USERNAME token before publishing. -->
