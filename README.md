@@ -1,6 +1,6 @@
 <!--
 GitHub profile README for Faizan Alam
-Replace YOUR_GITHUB_USERNAME before publishing.
+Replace faizanalam1457 before publishing.
 The resume did not include a GitHub username, so repository and activity URLs use this placeholder.
 -->
 
@@ -140,25 +140,25 @@ faizan = {
       <td><strong>HR Policy RAG Assistant</strong><br />2026</td>
       <td>Python<br />LangChain<br />Groq LLM<br />Streamlit</td>
       <td>Document-grounded HR chatbot with chunking, embeddings, persistent vector storage, a custom retriever tool, and both Streamlit and CLI interfaces.</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/hr-policy-rag-assistant"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="HR Policy RAG Assistant repository" /></a></td>
+      <td><a href="https://github.com/faizanalam-1457//hr-policy-rag-assistant"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="HR Policy RAG Assistant repository" /></a></td>
     </tr>
     <tr>
       <td><strong>Expense Tracker Web App</strong><br />2026</td>
       <td>React.js<br />Node.js<br />Express.js<br />MongoDB<br />JWT</td>
       <td>Full-stack expense tracker with signup and login, authenticated RESTful CRUD APIs, persistent transactions, categorization, and income, expense, and balance summaries.</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/expense-tracker-web-app"><img src="https://img.shields.io/badge/Repo-155E75?style=flat-square&logo=github&logoColor=white" alt="Expense Tracker repository" /></a></td>
+      <td><a href="https://github.com/faizanalam-1457/expense-tracker-web-app"><img src="https://img.shields.io/badge/Repo-155E75?style=flat-square&logo=github&logoColor=white" alt="Expense Tracker repository" /></a></td>
     </tr>
     <tr>
       <td><strong>AI Expense Categorization and Forecasting Engine</strong><br />February 2026</td>
       <td>Python<br />Machine Learning<br />OCR<br />Pandas<br />Matplotlib</td>
       <td>Expense intelligence pipeline for automated categorization, receipt extraction, future-spend forecasting, anomaly detection, and interactive analysis.</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/ai-expense-categorization-forecasting"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="AI Expense Categorization repository" /></a></td>
+      <td><a href="https://github.com/faizanalam-1457/ai-expense-categorization-forecasting"><img src="https://img.shields.io/badge/Repo-0F766E?style=flat-square&logo=github&logoColor=white" alt="AI Expense Categorization repository" /></a></td>
     </tr>
     <tr>
       <td><strong>Sales Performance Dashboard</strong><br />2026</td>
       <td>Power BI<br />Power Query<br />DAX<br />Data Modeling</td>
       <td>Interactive sales dashboard with transformed data, relational modeling, KPI measures, slicers, bar and line charts, pie charts, and drill-through views.</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/sales-performance-dashboard"><img src="https://img.shields.io/badge/Project-155E75?style=flat-square&logo=powerbi&logoColor=white" alt="Sales Performance Dashboard" /></a></td>
+      <td><a href="https://github.com/faizanlam1457/sales-performance-dashboard"><img src="https://img.shields.io/badge/Project-155E75?style=flat-square&logo=powerbi&logoColor=white" alt="Sales Performance Dashboard" /></a></td>
     </tr>
   </tbody>
 </table>
